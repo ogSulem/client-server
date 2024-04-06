@@ -1,0 +1,7 @@
+1 ost.txt
+2 lo.txt
+3 file3.txt
+4 logo.png
+5 l.png
+6 pic.png
+7 vkIcon.png
